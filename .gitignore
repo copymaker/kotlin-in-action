@@ -1,0 +1,35 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Gradle template
+.gradle
+/build/
+
+### Kotlin template
+# Compiled class file
+*.class
+
+### JetBrains template
+.idea
+out/
+
+### Eclipse template
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# sbteclipse plugin
+.target
+
+# STS (Spring Tool Suite)
+.springBeans
+
+# Annotation Processing
+.apt_generated/
+.apt_generated_test/
